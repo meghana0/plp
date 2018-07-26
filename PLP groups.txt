@@ -1,0 +1,83 @@
+Team 1: Home and login. 
+
+Technocrats
+------------------
+Bobbili, Sri Vani(TL)
+boddapu, sree lekha
+Chowtapalli, Anudeep
+Chundru, Lakshmi Kalyani
+
+Rustic Blooms
+-------------------
+DADI, JAHANAVI
+Kavya Sri, Gampala(TL)
+moturi, pallavi
+Malhotra, Simran
+--------------------------------------------------------------------------------------------------------------------------
+Team 2 : Browse and Cart
+
+Bots with Dots
+-------------------
+Elangovan, Sai Preetha
+Atyam, N V Krishna Mallika Ishwarya
+Bhurasamy, Indhu
+Kiran, Naragani(Team Leader)
+
+Metrics
+------------------
+Krishna, Pallavi
+Ojeswani, Gondesi (TL)
+Priyanka, Nidadavole
+Sandhya, P
+
+--------------------------------------------------------------------------------------------------------------------------
+Team 3 : Search and Checkout 
+
+Hawk Insights
+------------------
+Repaka, Srujala
+Thota, Prasanthi(TL)
+B, Sabareeshwari
+Kamidi, Mahender 
+
+Tech Fires
+-------------------
+Ahmed, Mohammed Rawoof
+Bollepalli, Siri Chandana
+YALAMANCHILI, MEGHANA(Team Leader)
+Harsha Vardhan, Bandaru
+
+--------------------------------------------------------------------------------------------------------------------------
+Team 4: Product details and Ordering 
+
+ Innovation Geeks
+-------------------
+Gadiraju, Rani
+Gavara, Sireesha
+Kada, Renuka Devi
+Chatti, Lohitha {TL}
+
+The Elites
+------------------
+Prerana, Satuluru
+Nanduru, Sree Harsha
+Kaligotla, Bala Subhadra
+G, Shivani(TL)
+
+--------------------------------------------------------------------------------------------------------------------------
+Team 5: Profile and Address book 
+
+Tech Cookies
+------------------
+Krithika, Illa
+Kandula, Lakshmi Priya(TL)
+Kavya, Kothakota
+Venkata Sai Ganesh, Kosuri
+
+Bug Squashers
+------------------
+kuncha, swathi
+R, Sarulatha (TL)
+Uddaraju, Geethika
+vandanapu, bhavya
+Kanthamneni, Jahnavi
